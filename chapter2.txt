@@ -1,0 +1,1 @@
+this is chapter 2 of the git and we learnt quite a few commands like commit and how to add into stagiing area 
