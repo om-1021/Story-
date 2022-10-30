@@ -1,0 +1,1 @@
+So, this is the first chapter of the story where we are gonna talk about the git and gtihub and version control
