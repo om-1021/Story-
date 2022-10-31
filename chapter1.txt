@@ -1,1 +1,4 @@
 So, this is the first chapter of the story where we are gonna talk about the git and gtihub and version control
+
+and now whatever I am writing that is all under experminetal branch which is seprate from main
+branch and this is all for test and I can play with my code without affecting the code in the main branch

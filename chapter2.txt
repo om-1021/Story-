@@ -1,1 +1,4 @@
 this is chapter 2 of the git and we learnt quite a few commands like commit and how to add into stagiing area 
+
+this all written under the experimental branch and its not going to affect the original branch 
+and I can try whatever I want.
